@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.grapes-logo {
+  color: #7a3a8e;
+  font-family: "Lavishly Yours", cursive;
+}
+
+.medical-grid-bg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.login-frame {
+  border-radius: 30px;
+  overflow: hidden;
+  width: 75%;
+}
+
+.login-card-purple {
+  background-color: #9785ff;
+  border-radius: 30px;
+  color: white;
+  padding: 40px;
+}
+
+.form-control-custom {
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.btn-login {
+  background-color: #6e46e5;
+  border: none !important;
+  border-radius: 15px !important;
+  padding: 12px 45px !important;
+  font-weight: bolder;
+}
